@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>DFP Media Manifest</title>
+    <description>Updates for DFP Media Manifest, from DF Productions.</description>
+    <language>en</language>
+    <item>
+      <title>Version 0.2</title>
+      <pubDate>Mon, 16 Nov 2026 06:03:34 GMT</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body { font-family: -apple-system, "Helvetica Neue", sans-serif; font-size: 13px; line-height: 1.45; margin: 0 6px 8px; }
+h2 { font-size: 15px; margin: 0.4em 0 0.4em; }
+h3 { font-size: 13px; margin: 1em 0 0.3em; }
+h4 { font-size: 12px; margin: 0.8em 0 0.2em; }
+p { margin: 0.4em 0; }
+ul, ol { margin: 0.3em 0; padding-left: 1.3em; }
+li { margin: 0.2em 0; }
+code { font-family: ui-monospace, Menlo, monospace; font-size: 12px; }
+@media (prefers-color-scheme: dark) { a { color: #79b8ff; } }
+</style>
+<h2>DFP Media Manifest 0.2</h2>
+<p><strong>DFP Media Manifest is now signed by DF Productions and checked by Apple, and it keeps itself up to date.</strong></p>
+<ul><li>Check for Updates… in the menu bar menu looks for a new version; the app also checks once a day by itself.</li><li>Preferences &gt; Updates turns the daily check off, or lets updates install without a click.</li><li>An update restarts the app without asking whether another Mac should take over: it is back within seconds.</li></ul>]]></description>
+      <enclosure url="https://github.com/df-productions/DFP-Media-Manifest-Releases/releases/download/v0.2/DFP-Media-Manifest-0.2-2026-11-16-5e8cc01.zip" length="5099793" type="application/octet-stream" sparkle:edSignature="fyeDIq8p4RHhjrdWV+v+rImOcGuuAoiXrfNgC4+pXTimgqEbNGLpHSEUoeT/9lZz+7gtre12iSi6O0Ol0Y1KCw=="/>
+    </item>
+  </channel>
+</rss>
